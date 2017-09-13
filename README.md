@@ -22,4 +22,4 @@ Wei-Harumi 心电计算模型并行化研究
 
 	Parallelization Electrocardiograms Simulation Model with Intel Xeon Phi
 
-  使用Intel Xeon Phi对心电仿真模型进行并行化
+	使用Intel Xeon Phi对心电仿真模型进行并行化
